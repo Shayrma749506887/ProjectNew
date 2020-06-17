@@ -117,5 +117,6 @@ bottom:20px;
 right:50px;
 }
 img{
-	background-size: 100%;
+	background-size: cover;
+	height: auto;
 }
